@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="420mm"
+   height="297mm"
+   viewBox="0 0 420 297"
+   version="1.1"
+   id="svg3715"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs3709">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3734">
+      <g
+         id="use3736"
+         inkscape:label="Clip">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3825"
+           d="M 27.214285,92.136894 H 384.77978 V 204.01785 H 27.214285 Z"
+           style="stroke-width:0.26458332" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3788">
+      <g
+         inkscape:label="Clip"
+         id="use3790">
+        <g
+           transform="translate(-5.3750001,-36.202381)"
+           clip-path="url(#clipPath3734)"
+           id="g3821">
+          <g
+             id="g3819"
+             inkscape:label="Clip">
+            <path
+               inkscape:connector-curvature="0"
+               id="path3817"
+               d="M 27.214285,92.136894 H 384.77978 V 204.01785 H 27.214285 Z"
+               style="stroke-width:0.26458332" />
+          </g>
+        </g>
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3801">
+      <g
+         id="use3803"
+         inkscape:label="Clip">
+        <g
+           id="g3813"
+           clip-path="url(#clipPath3788)">
+          <g
+             inkscape:label="Clip"
+             id="g3811">
+            <g
+               transform="translate(-5.3750001,-36.202381)"
+               clip-path="url(#clipPath3734)"
+               id="g3809">
+              <g
+                 id="g3807"
+                 inkscape:label="Clip">
+                <path
+                   inkscape:connector-curvature="0"
+                   id="path3805"
+                   d="M 27.214285,92.136894 H 384.77978 V 204.01785 H 27.214285 Z"
+                   style="stroke-width:0.26458332" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.37041667"
+     inkscape:cx="793.70079"
+     inkscape:cy="402.41066"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="mm"
+     inkscape:pagecheckerboard="false"
+     inkscape:snap-intersection-paths="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3712">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ffffff;stroke-width:1.20010614"
+       d="M 310.46094 315.32031 L 310.46094 614.98242 L 1317.4355 614.98242 L 1317.4355 315.32031 L 310.46094 315.32031 z M 349.35156 350.61328 L 837.99023 350.61328 L 837.99023 571.98633 L 349.35156 571.98633 L 349.35156 350.61328 z M 858.31641 388.40234 L 901.90039 388.40234 L 929.54883 436.40234 L 957.38867 388.40234 L 1000.9727 388.40234 L 948.36523 479.41016 L 948.36523 532.40234 L 910.92383 532.40234 L 910.92383 479.41016 L 858.31641 388.40234 z M 1017.2383 388.40234 L 1106.7109 388.40234 L 1106.7109 419.69922 L 1055.0625 419.69922 L 1055.0625 443.12305 L 1100.7578 443.12305 L 1100.7578 474.99414 L 1055.0625 474.99414 L 1055.0625 501.49023 L 1106.7109 501.49023 L 1106.7109 532.40234 L 1017.2383 532.40234 L 1017.2383 388.40234 z M 1133.8633 388.40234 L 1150.9512 388.40234 L 1209.7031 441.7793 L 1268.2637 388.40234 L 1285.3516 388.40234 L 1285.3516 532.40234 L 1247.3359 532.40234 L 1247.3359 458.48242 L 1209.7031 492.85156 L 1171.8789 458.67383 L 1171.8789 532.40234 L 1133.8633 532.40234 L 1133.8633 388.40234 z "
+       transform="scale(0.26458333)"
+       id="rect3829" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3835"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Big John';-inkscape-font-specification:'Big John';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;"
+       transform="matrix(0.26458333,0,0,0.26458333,-16.428571,-85)"><flowRegion
+         id="flowRegion3837"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Big John';-inkscape-font-specification:'Big John';fill:#ffffff;"><rect
+           id="rect3839"
+           width="961.0799"
+           height="380.6524"
+           x="434.64566"
+           y="685.17432"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Big John';-inkscape-font-specification:'Big John';fill:#ffffff;" /></flowRegion><flowPara
+         id="flowPara3841"
+         style="font-size:192px;fill:#ffffff;">GEE</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3851"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:192px;line-height:1.25;letter-spacing:0px;word-spacing:0px;"><flowRegion
+         id="flowRegion3853"
+         style="font-size:192px;"><rect
+           id="rect3855"
+           width="858.49268"
+           height="669.5163"
+           x="202.47469"
+           y="852.55341"
+           style="font-size:192px;" /></flowRegion><flowPara
+         id="flowPara3857"></flowPara></flowRoot>  </g>
+</svg>
